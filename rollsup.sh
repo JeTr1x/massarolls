@@ -1,3 +1,4 @@
+#!/bin/sh
 cd /root/massa/massa-client
 
 #Set variables
